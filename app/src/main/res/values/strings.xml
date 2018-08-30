@@ -5,4 +5,8 @@
 
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="history">History</string>
+    <string name="ideas">Ideas</string>
+    <string name="todo">Todo</string>
+    <string name="notification">Notification</string>
 </resources>
